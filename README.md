@@ -1,6 +1,9 @@
-# progressbar_webpage
+# Splash screen and webView functionality 
 
-A new Flutter application.
+A basic functionality in flutter.Make a splash screen go to a webview.
+<br>
+### ScreenCapture
+![](screen.gif)
 
 ## Getting Started
 
